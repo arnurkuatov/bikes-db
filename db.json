@@ -1,0 +1,47 @@
+[
+  {
+    "id": "KZ19S2602SPT",
+    "name": "ВЕЛОСИПЕД PHOENIX TORNADO 21SP",
+    "price": "89 990 ₸",
+    "class": "Горный",
+    "size": "17",
+    "numberOfSpeed": "21",
+    "maxWeight": "120"
+  },
+  {
+    "id": "KZ19S2603SPT",
+    "name": "ВЕЛОСИПЕД PHOENIX TORNADO PLUS 21SP",
+    "price": "109 990 ₸",
+    "class": "Горный",
+    "size": "19",
+    "numberOfSpeed": "21",
+    "maxWeight": "140"
+  },
+  {
+    "id": "KZ19S2604SPT",
+    "name": "ВЕЛОСИПЕД PHOENIX NEW XGT",
+    "price": "59 990 ₸",
+    "class": "Горный",
+    "size": "18",
+    "numberOfSpeed": "21",
+    "maxWeight": "110"
+  },
+  {
+    "id": "KZ19S2605SPT",
+    "name": "ВЕЛОСИПЕД ГОРОДСКОЙ PHOENIX TP-2608-13A CITYBIKE WHITE",
+    "price": "99 990 ₸",
+    "class": "Горный",
+    "size": "21",
+    "numberOfSpeed": "21",
+    "maxWeight": "100"
+  },
+  {
+    "id": "KZ19S2606SPT",
+    "name": "ВЕЛОСИПЕД PHOENIX MAGIC 4.0",
+    "price": "289 990 ₸",
+    "class": "Горный",
+    "size": "23",
+    "numberOfSpeed": "21",
+    "maxWeight": "170"
+  }
+]
